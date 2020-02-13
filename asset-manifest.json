@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/Oversv/freeCodeCamp-Random_Quote_Machine/static/css/main.491cf38b.chunk.css",
-    "main.js": "/Oversv/freeCodeCamp-Random_Quote_Machine/static/js/main.97977ea3.chunk.js",
-    "main.js.map": "/Oversv/freeCodeCamp-Random_Quote_Machine/static/js/main.97977ea3.chunk.js.map",
-    "runtime-main.js": "/Oversv/freeCodeCamp-Random_Quote_Machine/static/js/runtime-main.56b934a4.js",
-    "runtime-main.js.map": "/Oversv/freeCodeCamp-Random_Quote_Machine/static/js/runtime-main.56b934a4.js.map",
-    "static/js/2.45b3848d.chunk.js": "/Oversv/freeCodeCamp-Random_Quote_Machine/static/js/2.45b3848d.chunk.js",
-    "static/js/2.45b3848d.chunk.js.map": "/Oversv/freeCodeCamp-Random_Quote_Machine/static/js/2.45b3848d.chunk.js.map",
-    "index.html": "/Oversv/freeCodeCamp-Random_Quote_Machine/index.html",
-    "precache-manifest.bf4c69fea8430e3d8bba86f622246b0f.js": "/Oversv/freeCodeCamp-Random_Quote_Machine/precache-manifest.bf4c69fea8430e3d8bba86f622246b0f.js",
-    "service-worker.js": "/Oversv/freeCodeCamp-Random_Quote_Machine/service-worker.js",
-    "static/css/main.491cf38b.chunk.css.map": "/Oversv/freeCodeCamp-Random_Quote_Machine/static/css/main.491cf38b.chunk.css.map",
-    "static/js/2.45b3848d.chunk.js.LICENSE.txt": "/Oversv/freeCodeCamp-Random_Quote_Machine/static/js/2.45b3848d.chunk.js.LICENSE.txt"
+    "main.css": "/freeCodeCamp-Random_Quote_Machine/static/css/main.491cf38b.chunk.css",
+    "main.js": "/freeCodeCamp-Random_Quote_Machine/static/js/main.c530233c.chunk.js",
+    "main.js.map": "/freeCodeCamp-Random_Quote_Machine/static/js/main.c530233c.chunk.js.map",
+    "runtime-main.js": "/freeCodeCamp-Random_Quote_Machine/static/js/runtime-main.f0cacc2e.js",
+    "runtime-main.js.map": "/freeCodeCamp-Random_Quote_Machine/static/js/runtime-main.f0cacc2e.js.map",
+    "static/js/2.45b3848d.chunk.js": "/freeCodeCamp-Random_Quote_Machine/static/js/2.45b3848d.chunk.js",
+    "static/js/2.45b3848d.chunk.js.map": "/freeCodeCamp-Random_Quote_Machine/static/js/2.45b3848d.chunk.js.map",
+    "index.html": "/freeCodeCamp-Random_Quote_Machine/index.html",
+    "precache-manifest.e3cdcdd6e6b50ef343f1ba8b903840ae.js": "/freeCodeCamp-Random_Quote_Machine/precache-manifest.e3cdcdd6e6b50ef343f1ba8b903840ae.js",
+    "service-worker.js": "/freeCodeCamp-Random_Quote_Machine/service-worker.js",
+    "static/css/main.491cf38b.chunk.css.map": "/freeCodeCamp-Random_Quote_Machine/static/css/main.491cf38b.chunk.css.map",
+    "static/js/2.45b3848d.chunk.js.LICENSE.txt": "/freeCodeCamp-Random_Quote_Machine/static/js/2.45b3848d.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.56b934a4.js",
+    "static/js/runtime-main.f0cacc2e.js",
     "static/js/2.45b3848d.chunk.js",
     "static/css/main.491cf38b.chunk.css",
-    "static/js/main.97977ea3.chunk.js"
+    "static/js/main.c530233c.chunk.js"
   ]
 }

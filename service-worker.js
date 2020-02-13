@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Oversv/freeCodeCamp-Random_Quote_Machine/precache-manifest.bf4c69fea8430e3d8bba86f622246b0f.js"
+  "/freeCodeCamp-Random_Quote_Machine/precache-manifest.e3cdcdd6e6b50ef343f1ba8b903840ae.js"
 );
 
 self.addEventListener('message', (event) => {
@@ -33,7 +33,7 @@ workbox.core.clientsClaim();
 self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute(workbox.precaching.getCacheKeyForURL("/Oversv/freeCodeCamp-Random_Quote_Machine/index.html"), {
+workbox.routing.registerNavigationRoute(workbox.precaching.getCacheKeyForURL("/freeCodeCamp-Random_Quote_Machine/index.html"), {
   
   blacklist: [/^\/_/,/\/[^/?]+\.[^/]+$/],
 });
