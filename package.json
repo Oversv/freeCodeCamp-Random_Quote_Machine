@@ -2,7 +2,7 @@
   "name": "quote-machine",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/oversv/freeCodeCamp-Random_Quote_Machine",
+  "homepage": "https://Oversv.github.io/freeCodeCamp-Random_Quote_Machine",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.4.0",
